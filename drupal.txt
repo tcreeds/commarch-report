@@ -1,0 +1,42 @@
+Drupal Commarch Report
+
+IRC: freenode, #drupal, #drupal-contribute, #drupal-support, dozens of others
+Source: https://git.drupal.org/project/drupal.git
+Mailing List Archive: none
+Documentation: 
+Other channels: 
+Website: https://www.drupal.org
+
+A.  Open Source CMS, built to provide a way to manage content and build scalable websites without resorting to proprietary platforms like SharePoint.
+
+B. The initial code was written in 2000, and it was released publicly in 2001. There are commits every day.
+
+C. Asdf
+
+D. Almost 2000 people have contributed to Drupal Core, and there are thousands of extensions.
+
+E. Unique knowledge
+
+F. Coefficient of fail
+
+H. Acquia employs developers to work on Drupal full-time, and is a for-profit company that supports the growth and use of Drupal.
+
+I. Dries Buytaert is the founder of Acquia and the creator of Drupal, and currently oversees the project as a whole, but there is no single lead developer.
+
+J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+
+K. How is the project's participation trending and why?
+
+L. In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
+
+M. In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
+
+N. Does the project have an official "on-boarding" process in place? (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
+
+O. Does the project have Documentation available? Is it extensive? Does it include code examples?
+
+P. If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
+
+Q. Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
+
+R. Is this the kind of structure you would enjoy working in? Why, or why not?

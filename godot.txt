@@ -1,0 +1,42 @@
+IRC: freenode, #drupal, #drupal-contribute, #drupal-support, dozens of others
+Source: https://git.drupal.org/project/drupal.git
+Mailing List Archive: none
+Documentation: 
+Other channels: 
+Website: https://www.drupal.org
+
+A. Game Engine, focused on providing developers with the tools they need to make games, no strings attached.
+
+B. Last commit was October 5th (today). 1.0 was released in December of 2014, having been an in-house engine previous to that.
+
+C. There are many direct committers, but there is one developer who handles the majority of pull requests. 
+
+D. There are 249 total contributors, and it’s hard to tell if everyone has commit access. There are about as many direct commits as pull requests merged into master.
+
+E. Unique knowledge
+
+F. Coefficient of fail
+
+G. Most of the top contributors are very regular, but more than half seem to have started contributing in the past year or so. One of 
+
+H. the top developers stopped contributing about a year ago.
+
+I. The BDFL is Juan Linietsky. He started the project, and is currently the top contributor, with 60 commits to the repo in September.
+
+J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+
+K. How is the project's participation trending and why?
+
+L. In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
+
+M. In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
+
+N. Does the project have an official "on-boarding" process in place? (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
+
+O. Does the project have Documentation available? Is it extensive? Does it include code examples?
+
+P. If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
+
+Q. Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
+
+R. Is this the kind of structure you would enjoy working in? Why, or why not?
