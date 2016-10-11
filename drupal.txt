@@ -23,20 +23,20 @@ H. Acquia employs developers to work on Drupal full-time, and is a for-profit co
 
 I. Dries Buytaert is the founder of Acquia and the creator of Drupal, and currently oversees the project as a whole, but there is no single lead developer.
 
-J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+J. I didn't find any reports of major bugs, but I'm sure they're out there. There are often bugs in modules, and sometimes the modules are abandonded and the bugs are never fixed, but there are rarely notable breaking bugs in Drupal Core.
 
-K. How is the project's participation trending and why?
+K. It's hard to find good data on the participation in the project over time. The repository viewer for Drupal core only shows stats for 2016, and that's been fairly consistent. There is a Github mirror, and while I don't know how accurate that information is, it does illustrate that Dries Buytart, the founder, has barely contributed at all the last year or so.
 
-L. In your opinion, does the project pass "The Raptor Test?" (i.e. Would the project survive if the BDFL, or most active contributor were eaten by a Velociraptor?) Why or why not?
+L. As there isn't currently a single lead developer, there is no single hit by a bus scenario. If Acquia went down, then the project would be in a much more unstable position, but it would still have a lot of support.
 
-M. In your opinion, would the project survive if the core team, or most active 20% of contributors, were hit by a bus? Why or why not?
+M. Since the project is so large, if the core team went down, the demand for skilled Drupal developers would quickly create a new elite. The number of people that rely on Drupal means that there is always a demand, and so there will always be a supply.
 
-N. Does the project have an official "on-boarding" process in place? (new contributor guides, quickstarts, communication leads who focus specifically on newbies, etc...)
+N. The project does have onboarding, for developers and end-users. There are different levels of detail based on the topic being discussed, as a site administrator has different concerns than a patch developer, but the onboarding material is fairly comprehensive.
 
-O. Does the project have Documentation available? Is it extensive? Does it include code examples?
+O. Drupal has lots of documentation. There is a lot of official documentation on the website, and each module generally has at least some documentation. There are also a large number of community-driven educational efforts.
 
-P. If you were going to contribute to this project, but ran into trouble or hit blockers, who would you contact, and how?
+P. I would probably check out the IRC channels first. The number of channels devoted to IRC gives me the impression that the Drupal community uses IRC pretty heavily. I would probably go to Stack Overflow after that, as there are so many Drupal developers that I would probably get a response pretty quickly.
 
 Q. Based on these answers, how would you describe the decision making structure/process of this group?  Is it hierarchical, consensus building, ruled by a small group, barely contained chaos, or ruled by a single or pair of individuals?
 
-R. Is this the kind of structure you would enjoy working in? Why, or why not?
+R. Much of the documentation, bug tracking, etc. is on Drupal's site, and it doesn't seem as polished as some other projects. Their end users are developers, so the process is simple but requires knowledge of the underlying systems, which makes sense. I think I could get used to it, but it seems to rely on developers with a strong desire to contribute, as opposed to making the process as easy as possible to entice new developers.
