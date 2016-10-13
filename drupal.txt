@@ -11,17 +11,19 @@ A.  Open Source CMS, built to provide a way to manage content and build scalable
 
 B. The initial code was written in 2000, and it was released publicly in 2001. There are commits every day.
 
-C. Asdf
+C. Patches can be downloaded on a case-by-case basis, as they take the form of git diffs. Patches to Drupal Core are controlled by the core team, and rolled out in releases, but it seems to be common for people to post their own patches, and for website maintainers to download and apply these patches directly.
 
 D. Almost 2000 people have contributed to Drupal Core, and there are thousands of extensions.
 
-E. Unique knowledge
+E. GBAB/GBAT
 
-F. Coefficient of fail
+F. Drupal scores a 45 on the Coefficient of Fail, but I highly doubt that number is accurate. I wasn't able to find definitive answers for each item, but the ones that I did find I'm certain of. In all likelihood, the number is higher.
 
-H. Acquia employs developers to work on Drupal full-time, and is a for-profit company that supports the growth and use of Drupal.
+G. Acquia employs developers to work on Drupal full-time, and is a for-profit company that supports the growth and use of Drupal.
 
-I. Dries Buytaert is the founder of Acquia and the creator of Drupal, and currently oversees the project as a whole, but there is no single lead developer.
+H. Dries Buytaert is the founder of Acquia and the creator of Drupal, and currently oversees the project as a whole, but there is no single lead developer.
+
+I. For the most part, developers don't touch all the different parts of Drupal. Drupal is a big project, so front-end and back-end aren't adequate labels for sections of development. There is a lot of specialized talent.
 
 J. I didn't find any reports of major bugs, but I'm sure they're out there. There are often bugs in modules, and sometimes the modules are abandonded and the bugs are never fixed, but there are rarely notable breaking bugs in Drupal Core.
 

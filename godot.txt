@@ -17,11 +17,11 @@ E. Unique knowledge
 
 F. Coefficient of fail
 
-G. Most of the top contributors are very regular, but more than half seem to have started contributing in the past year or so. One of 
+G. Most of the top contributors are very regular, but more than half seem to have started contributing in the past year or so. One of the top developers stopped contributing about a year ago.
 
-H. the top developers stopped contributing about a year ago.
+H. The BDFL is Juan Linietsky. He started the project, and is currently the top contributor, with 60 commits to the repo in September.
 
-I. The BDFL is Juan Linietsky. He started the project, and is currently the top contributor, with 60 commits to the repo in September.
+I. Most people on the project seem to touch different parts, with the different types of work being fairly distributed among developers.
 
 J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
 
