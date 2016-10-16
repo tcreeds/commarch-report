@@ -15,7 +15,7 @@ D. There are 249 total contributors, and it’s hard to tell if everyone has com
 
 E. Unique knowledge
 
-F. Coefficient of fail
+F. The coefficient of fail is 60. Again, it could probably be more accurate, as I didn't investigate every item as thoroughly as I could have, but I think it's accurate enough for our purposes.
 
 G. Most of the top contributors are very regular, but more than half seem to have started contributing in the past year or so. One of the top developers stopped contributing about a year ago.
 
