@@ -3,7 +3,7 @@ Source: https://github.com/godotengine/godot
 Mailing List Archive: none
 Documentation: https://github.com/godotengine/godot-docs
 Other channels: https://godotdevelopers.org/forum/, https://godotengine.org/qa/
-Website: https://www.drupal.org
+Website: https://www.godotengine.org
 
 A. Game Engine, focused on providing developers with the tools they need to make games, no strings attached.
 
