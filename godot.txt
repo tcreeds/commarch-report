@@ -23,7 +23,7 @@ H. The BDFL is Juan Linietsky. He started the project, and is currently the top 
 
 I. Most people on the project seem to touch different parts, with the different types of work being fairly distributed among developers.
 
-J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
+J. Bug fixes are handled by the "bugsquad", which seems to be Godot's term for the bug-squashing community at large. They primarily use Github issues to document bugs, but there is evidence that they're trying to move to OpenProject.
 
 K. Juan Linietsky is the founder and still the top contributor, but the community is very active. Participation has spiked for Hacktoberfest, but it has been very steady recently.
 
