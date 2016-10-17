@@ -1,8 +1,8 @@
-IRC: freenode, #drupal, #drupal-contribute, #drupal-support, dozens of others
-Source: https://git.drupal.org/project/drupal.git
+IRC: freenode, #godotengine
+Source: https://github.com/godotengine/godot
 Mailing List Archive: none
-Documentation: 
-Other channels: 
+Documentation: https://github.com/godotengine/godot-docs
+Other channels: https://godotdevelopers.org/forum/, https://godotengine.org/qa/
 Website: https://www.drupal.org
 
 A. Game Engine, focused on providing developers with the tools they need to make games, no strings attached.
@@ -13,19 +13,19 @@ C. There are many direct committers, but there is one developer who handles the 
 
 D. There are 249 total contributors, and it’s hard to tell if everyone has commit access. There are about as many direct commits as pull requests merged into master.
 
-E. Unique knowledge
+E. Juan Linietsky has the most unique knowledge, 
 
 F. The coefficient of fail is 60. Again, it could probably be more accurate, as I didn't investigate every item as thoroughly as I could have, but I think it's accurate enough for our purposes.
 
 G. Most of the top contributors are very regular, but more than half seem to have started contributing in the past year or so. One of the top developers stopped contributing about a year ago.
 
-H. The BDFL is Juan Linietsky. He started the project, and is currently the top contributor, with 60 commits to the repo in September. Coming in a close second is the co-founder, Ariel Manzur, who is slightly less active than Juan.
+H. The BDFL is Juan Linietsky. He started the project, and is currently the top contributor, with 60 commits to the repo in September.
 
 I. Most people on the project seem to touch different parts, with the different types of work being fairly distributed among developers.
 
 J. What have been some of the major bugs/problems/issues that have arisen during development? Who is responsible for quality control and bug repair?
 
-K. The co-founders are still the top contributors, but the community is very active. Participation has spiked for Hacktoberfest, but it has been very steady recently.
+K. Juan Linietsky is the founder and still the top contributor, but the community is very active. Participation has spiked for Hacktoberfest, but it has been very steady recently.
 
 L. If any single developer were eaten, the project would survive. The community actively contributes and discusses architecture and the future of the project, so there would not be a lack of vision if either of the 
 
